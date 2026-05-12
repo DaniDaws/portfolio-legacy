@@ -13,7 +13,7 @@ This portfolio showcases:
 
 ## Live Site
 
-You can view the live portfolio website at: [https://danidaws.github.io/](https://danidaws.github.io/)
+You can view the live portfolio website at: https://danidaws.github.io/portfolio-legacy/
 
 ## Technologies Used
 
